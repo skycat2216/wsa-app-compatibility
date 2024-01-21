@@ -479,11 +479,12 @@ wsa://com.apple.android.music
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
-| Battle Cats Quest | 1.0.4 | 11 | ✅
+| Battle Cats Quest | 1.0.4 | 11 | ✅ 
 | Beat the Boss 4 | 1.7.7 | 13 | ✅
 | Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using NVIDIA GeForce GTX 1650.
 | Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
+| Blue Archive (TW) | 1.57.251082 | 13 | ❌ |Extracted from phone with base and v8a,Failed to load libmain.so
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
 | C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | 11 | ✅ | GMS warnings might appear but these can be safely ignored
